@@ -4,6 +4,8 @@ A Retrieval-Augmented Generation (RAG) system designed for querying documents us
 
 > **Note: This project is created for learning and reference purposes only. It demonstrates the implementation of RAG systems using modern AI technologies and is intended for educational use.**
 
+> **Please create Data and Docs directories before you try to run this!**
+
 ## Features 🌟
 
 - **PDF Document Ingestion**: Automatically processes and chunks PDF documents for optimal retrieval
